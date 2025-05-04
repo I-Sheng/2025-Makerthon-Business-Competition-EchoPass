@@ -71,11 +71,11 @@ EchoPass 旨在解決當前藝文展覽面臨的兩大問題：
 
 ## 👥 專案團隊
 
-- 陳熙（Hsi Chen）
-- 周欣妤（Hsin-Yu Chou）
-- 黃永勝（Yung-Sheng Huang）
+- 陳曦（Hsi Chen）
+- 周心瑀（Hsin-Yu Chou）
+- 黃詠笙（Yung-Sheng Huang）
 - 蘇柏諺（Su, Po-Yen）
-- 徐可真（Kezhenx Xu）
+- 許可蓁（Kezhenx Xu）
 - 李逸盛（I-Sheng Lee）
 
 ---
