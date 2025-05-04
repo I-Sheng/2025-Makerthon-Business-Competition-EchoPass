@@ -1,4 +1,6 @@
 # EchoPass
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/I-Sheng/2025-Makerthon-Business-Competition-EchoPass/blob/main/README.en.md)
+
 
 **觀眾的藝文護照，策展方的互動平台**
 EchoPass 是一項創新的數位解決方案，結合「數位藝文護照」與「NFT 紀念品」，強化展覽互動體驗，並為觀展者與策展方創造雙贏價值。
