@@ -1,4 +1,6 @@
 # EchoPass
+[![ch](https://img.shields.io/badge/lang-ch-green.svg)](https://github.com/I-Sheng/2025-Makerthon-Business-Competition-EchoPass/blob/main/README.md)
+
 
 **Passport for the Audience, Platform for Curators**
 EchoPass is an innovative digital solution that enhances the exhibition experience by combining cultural passports with NFTs. It provides value to both audiences and curators through interactive engagement and permanent digital records of exhibition visits.
